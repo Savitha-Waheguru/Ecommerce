@@ -6,5 +6,9 @@ public class TestQA
 	{
 		System.out.println("Hello System");
 	}
-
+	
+	void add()
+	{
+		System.out.println("Adding new function");
+	}
 }
