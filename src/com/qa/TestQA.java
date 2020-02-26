@@ -13,4 +13,9 @@ public class TestQA
 	{
 		System.out.println("Adding new function");
 	}
+	
+	void add1()
+	{
+		System.out.println("Adding new second function work in progress");
+	}
 }
