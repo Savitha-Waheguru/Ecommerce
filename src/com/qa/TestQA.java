@@ -16,6 +16,8 @@ public class TestQA
 	
 	void add1()
 	{
-		System.out.println("changes in remote repo -Adding new second function work in progress - made changes in the remote repo");
+
+		System.out.println("again change to local repo - Adding new second function work in progress - made changes in the remote repo");
+
 	}
 }
